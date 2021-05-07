@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EscortApp</string>
+    <string name="username_tips">用户名</string>
+    <string name="password_tips">密码</string>
+</resources>
